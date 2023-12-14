@@ -19,5 +19,5 @@
 
 # Screenshots
 
-<img src="./readme-content/Example1.png">
-<img src="./readme-content/Example2.png">
+<img src="./readme-content/Example1.PNG">
+<img src="./readme-content/Example2.PNG">
